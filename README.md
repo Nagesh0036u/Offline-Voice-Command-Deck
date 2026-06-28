@@ -32,4 +32,4 @@ I built this project to automate common Windows tasks using both text and offlin
 
 ## 👩‍💻 Author
 
-**Likitha BN**
+Nagesh R
