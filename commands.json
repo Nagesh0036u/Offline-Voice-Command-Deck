@@ -1,0 +1,8 @@
+{
+    "open calculator": "calc.exe",
+    "open notepad": "notepad.exe",
+    "open explorer": "explorer.exe",
+    "open github": "https://github.com",
+    "open youtube": "https://youtube.com",
+    "initialize workspace": "workspace"
+}
